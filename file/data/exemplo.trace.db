@@ -1,0 +1,6 @@
+2023-07-17 12:39:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "PERSON" not found; SQL statement:
+SELECT *FROM PERSON [42102-197]
+2023-07-17 13:17:31 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Table "CUSTOMER" not found; SQL statement:
+SELECT *FROM CUSTOMER [42102-197]
